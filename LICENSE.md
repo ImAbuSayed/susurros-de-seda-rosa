@@ -1,6 +1,6 @@
 # License
 
-**Susurros de seda rosa**
+**Susurros de seda rosa, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

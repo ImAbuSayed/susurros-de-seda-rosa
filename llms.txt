@@ -1,4 +1,4 @@
-# Susurros de seda rosa
+# Susurros de seda rosa, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Susurros de seda rosa |
+| **Title** | Susurros de seda rosa, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-de-seda-rosa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Susurros de seda rosa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-seda-rosa/) |
+| **Get License** | [Request Licensing for Susurros de seda rosa, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-de-seda-rosa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la luna sabe lo que hicimos en Madrid
+> Tu cuerpo es un secreto que yo quiero descubrir
+> Susurros de seda rosa, perdiéndome en tu olor
+> Esta noche no hay final, solo tú y mi calor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8b26a513a0c028c89f0c6b70f5abdfd9dbe37607176ac4e3c490993ac715157e` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
